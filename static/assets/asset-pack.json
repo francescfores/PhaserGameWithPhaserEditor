@@ -1,0 +1,64 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/tilemaps/tiles/1560.png",
+                "type": "image",
+                "key": "1560"
+            },
+            {
+                "url": "assets/tilemaps/tiles/fantasy-tiles.png",
+                "type": "image",
+                "key": "fantasy-tiles"
+            },
+            {
+                "url": "assets/tilemaps/tiles/fantasy-tiles2.png",
+                "type": "image",
+                "key": "fantasy-tiles2"
+            },
+            {
+                "url": "assets/FufuSuperDino.png",
+                "type": "image",
+                "key": "FufuSuperDino"
+            },
+            {
+                "url": "assets/tilemaps/tiles/kenney_redux_64x64.png",
+                "type": "image",
+                "key": "kenney_redux_64x64"
+            },
+            {
+                "url": "assets/tilemaps/maps/matter-platformer2.json",
+                "type": "tilemapTiledJSON",
+                "key": "matter-platformer"
+            },
+            {
+                "url": "assets/tilemaps/maps/matter-platformer2.json",
+                "type": "tilemapTiledJSON",
+                "key": "matter-platformer_1"
+            },
+            {
+                "atlasURL": "assets/tilemaps/maps/matter-platformer2.json",
+                "textureURL": "assets/tilemaps/maps/matter-platformer2.png",
+                "type": "atlas",
+                "key": "matter-platformer2"
+            },
+            {
+                "url": "assets/tilemaps/tiles/Terrain32x32.png",
+                "type": "image",
+                "key": "Terrain32x32"
+            },
+            {
+                "url": "assets/tilemaps/tiles/wario-tiles.png",
+                "type": "image",
+                "key": "wario-tiles"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
